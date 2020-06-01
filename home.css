@@ -1,0 +1,133 @@
+body{
+    background-image: url("suk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(249, 253, 252);
+  }
+  .Content{
+    font-family: 'Candara',Segoe UI, 'Tahom',Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgba(117, 231, 247, 0.938);
+    font-weight: bolder;
+  }
+  .home{
+      font-family: 'Arial', Helvetica, sans-serif, 'Times New Roman', Times, serif;
+      text-align: center;
+      color: rgba(234, 230, 236, 0.959);
+      font-size: 30px;
+  }
+  img{
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .image{
+    border-radius: 25%;
+    width: 400px;
+    margin-top: auto;
+  }
+  a:hover{
+    border: 10px;
+    background-color: rgb(25, 26, 25);
+    color: black;
+    width: 600px;
+    height: 468px;
+  }
+  .caption{
+    color: rgb(239, 241, 248);
+    align-self: centre;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 20px;
+    
+  }
+  .image1{
+    width: 400px;
+    margin-top: auto;
+  }
+  .caption1{
+    color: rgb(239, 241, 248);
+    margin-top: auto;
+    margin-left: auto;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 20px;
+  }
+  .header1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(249, 253, 252);
+  }
+  a:hover{
+    color: rgb(245, 245, 238);
+    font-weight: 900;
+    font-family: cursive;
+  }
+  .links{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+    background-color: black;
+  }
+  .info{
+    color: cornsilk;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .details{
+    text-align: center;
+    color: burlywood;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .home1{
+    text-align: center;
+    color: burlywood;
+    background-color: rgb(7, 7, 7);
+    font-size: 20px;
+  }
+  .car1{
+    text-align: left;
+    color: darksalmon;
+    font-family: 'cursive';
+  }
+  .iaf{
+    color: deepskyblue;
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  a{
+    color: deepskyblue;
+  }
+  .iaf1{
+    color: floralwhite;
+    font-size: 20px;
+    margin-bottom: auto;
+    text-align: center;
+  }
+  .home2{
+    color: aliceblue;
+    text-align: center;
+    margin-block-end: auto;
+  }
+  .image3{
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 20px;
+  }
